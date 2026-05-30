@@ -235,6 +235,8 @@ Smart-Adaptive-Traffic-Signal-System/
 └── Presentation/
     └── Project_Presentation.pptx
 ```
+#Source Code
+[View Source Code](code/main.py)
 
 ---
 
