@@ -74,7 +74,6 @@ The controller continuously monitors traffic density and dynamically allocates g
 | Green LEDs                | 2           |
 | Breadboard                | 1           |
 | Jumper Wires              | As Required |
-| 220Ω Resistors            | 6           |
 
 ---
 
